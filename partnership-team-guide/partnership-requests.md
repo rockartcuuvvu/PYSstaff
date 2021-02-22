@@ -4,7 +4,7 @@ This is a page where a clear explanation will be made for how to do a partnershi
   
 _Now, you are probably wondering, what are these reactions on the partnership request and what do they do?_
 
-\_\_
+![What a Partnership Request should look like \(Denied\)](../.gitbook/assets/tempsnip.png)
 
 ##                         Reactions
 
