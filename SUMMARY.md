@@ -16,4 +16,5 @@
 * [Different Ranks and what they do](moderation-team-guide/untitled-1.md)
 * [What’s expected of you](moderation-team-guide/untitled-2.md)
 * [Different Moderation Commands](moderation-team-guide/untitled-3.md)
+* [What actions you take in certain circumstances](moderation-team-guide/what-actions-you-take-in-certain-circumstances.md)
 
