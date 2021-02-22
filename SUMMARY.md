@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome to PYS Staff](README.md)
 
 ## Partnership Team Guide
 
