@@ -13,7 +13,7 @@
 
 * [Introduction](moderation-team-guide/introduction.md)
 * [The Point of the Moderation Team](moderation-team-guide/the-point-of-the-moderation-team.md)
-* [Untitled](moderation-team-guide/untitled-1.md)
-* [Untitled](moderation-team-guide/untitled-2.md)
-* [Untitled](moderation-team-guide/untitled-3.md)
+* [Different Ranks and what they do](moderation-team-guide/untitled-1.md)
+* [What’s expected of you](moderation-team-guide/untitled-2.md)
+* [Different Moderation Commands](moderation-team-guide/untitled-3.md)
 
