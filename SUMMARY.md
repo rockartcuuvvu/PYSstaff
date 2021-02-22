@@ -9,6 +9,4 @@
 * [Different Ranks and what they do](moderation-team-guide/untitled-1.md)
 * [What is expected of you](moderation-team-guide/untitled-2.md)
 * [Different Moderation Commands](moderation-team-guide/different-moderation-commands.md)
-* [Untitled](moderation-team-guide/untitled.md)
-* [Untitled](moderation-team-guide/untitled-1-1.md)
 
