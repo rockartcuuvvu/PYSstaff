@@ -1,5 +1,5 @@
 ---
-description: Welcome to the Moderation Guide Moderator!
+Bdescription: Welcome to the Moderation Guide Moderator!
 ---
 
 # Introduction
